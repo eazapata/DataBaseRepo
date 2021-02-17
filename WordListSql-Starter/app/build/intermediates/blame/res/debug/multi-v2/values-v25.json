@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\macia\\AndroidStudioProjects\\android-fundamentals-starter-apps-master\\WordListSql-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
+            "outputFile": "F:\\Datos\\Usuario\\src\\Android\\DataBaseRepo\\DataBaseRepo\\WordListSql-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\macia\\.gradle\\caches\\transforms-2\\files-2.1\\4458c9c05cd1e45f3462845bbb5f6a7c\\appcompat-1.0.0\\res\\values-v25\\values-v25.xml",
+                    "source": "C:\\Users\\eduwo\\.gradle\\caches\\transforms-2\\files-2.1\\4458c9c05cd1e45f3462845bbb5f6a7c\\appcompat-1.0.0\\res\\values-v25\\values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",
